@@ -1,6 +1,0 @@
-.git
-.github
-.pre-commit-config.yaml
-venv
-dist
-artifactory_cleanup.egg-info
